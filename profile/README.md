@@ -1,6 +1,6 @@
 # Student TechHub
 
-Student TechHub is a Github organization dedicated to fostering the technical skills and creativity of Computer Engineering students. Our aim is to provide a collaborative platform where students can work on diverse technical projects, learn from each other, and contribute to open-source initiatives.
+Student TechHub is a Github organization dedicated to fostering the technical skills and creativity of students. Our aim is to provide a collaborative platform where students can work on diverse technical projects, learn from each other, and contribute to open-source initiatives.
 
 ## Mission
 
@@ -18,7 +18,7 @@ Our mission is to empower students by:
 
 ## Projects
 
-Explore our current projects and contribute to ones that interest you! Whether you're passionate about web development, machine learning, or software engineering, there's a project for you.
+Explore our current projects and contribute to ones that interest you! Whether you're passionate about web development, machine learning, or software , there's a project for you.
 
 ## Getting Started
 
